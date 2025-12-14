@@ -1,1 +1,0 @@
-variavel_modulo = 'Luiz'
